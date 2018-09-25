@@ -19,7 +19,7 @@ indent_mode=2
 
 [project]
 name=Queues
-base_path=/media/robinsonvs/5f6c2a57-7fb0-4a15-a46f-f72498784a45/Atual/AlgoritmosAndDataStructures/c
+base_path=/media/robinsonvs/5f6c2a57-7fb0-4a15-a46f-f72498784a45/Atual/AlgoritmosAndDataStructures/c/Queues
 description=
 file_patterns=
 
@@ -31,7 +31,7 @@ long_line_column=72
 current_page=2
 FILE_NAME_0=250;C++;0;EUTF-8;1;1;0;%2Fmedia%2Frobinsonvs%2F5f6c2a57-7fb0-4a15-a46f-f72498784a45%2FAtual%2FAlgoritmosAndDataStructures%2Fc%2FQueues%2FQueue.h;0;4
 FILE_NAME_1=473;C;0;EUTF-8;1;1;0;%2Fmedia%2Frobinsonvs%2F5f6c2a57-7fb0-4a15-a46f-f72498784a45%2FAtual%2FAlgoritmosAndDataStructures%2Fc%2FQueues%2FQueue.c;0;4
-FILE_NAME_2=126;C;0;EUTF-8;1;1;0;%2Fmedia%2Frobinsonvs%2F5f6c2a57-7fb0-4a15-a46f-f72498784a45%2FAtual%2FAlgoritmosAndDataStructures%2Fc%2FQueues%2FBank.c;0;4
+FILE_NAME_2=132;C;0;EUTF-8;1;1;0;%2Fmedia%2Frobinsonvs%2F5f6c2a57-7fb0-4a15-a46f-f72498784a45%2FAtual%2FAlgoritmosAndDataStructures%2Fc%2FQueues%2FBank.c;0;4
 
 [VTE]
 last_dir=/home/robinsonvs
@@ -41,3 +41,6 @@ CFT_01_LB=_Build
 CFT_01_CM=gcc -Wall -o "%e" "%f" Queue.o
 CFT_01_WD=
 filetypes=C;
+EX_00_LB=_Execute
+EX_00_CM="./%e"
+EX_00_WD=
